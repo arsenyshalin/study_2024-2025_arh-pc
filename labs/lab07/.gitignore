@@ -1,0 +1,5 @@
+*.o
+*.lst
+*.bin
+report/bib
+report/pandoc
